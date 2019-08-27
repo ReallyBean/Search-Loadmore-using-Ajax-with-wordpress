@@ -1,5 +1,7 @@
 <?php
 
+// Modified at 2019/08/27
+
 function product_load_more_scripts() {
 
 	global $wp_query; 
